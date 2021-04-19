@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Djibril
+- 👀 I’m interested in web developement and Articifial Intelligence (Computer vision).
+- 🌱 I worked on several Angular and Node JS project
+- 👀 I’m currently working on my thesis in Multiple Object Tracking
+- 📫 You can contact me on **issoufoudjib@gmail.com**
