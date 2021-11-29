@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Djibril
-- 👀 I’m interested in web developement and Deep learning.
-- 🌱 I worked on several React.js and Node JS project
+- 👀 I’m interested in web developement.
+- 🌱 I work with React.js and Node.js
 - 📫 You can contact me on **idjibrilmaman@gmail.com**
