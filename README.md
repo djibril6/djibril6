@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Djibril
 - 👀 I’m interested in web developement.
 - 🌱 I work with React.js and Node.js
-- 📫 You can contact me on **idjibrilmaman@gmail.com**
+- 📫 You can connect with here: **idjibrilmaman@gmail.com**
