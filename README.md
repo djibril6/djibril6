@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Djibril
-- 👀 Talk to me about AI or web development if you want to keep my attention
+- 👀 If you want to keep my attention, talk to me about AI or web development
 - 📫 You can connect with here: **idjibrilmaman@gmail.com**
